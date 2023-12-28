@@ -1,5 +1,3 @@
-### Hello Guys 👋
-
 #### 👨‍💻 About me: ####
 My name is **Kamil** and I am beginner **C# back-end developer** in ✨ _ASP .NET Core_ ✨
 
@@ -16,7 +14,7 @@ Currently I am working on my portfolio - REST WebAPI project called "Sportomondo
   <li>SQL / Microsoft SQL Server</li>
   <li>GIT, TFS</li>
   <li>HTML, CSS (basics)</li>
-  <li>enova365 (ERP System)</li>
+  <li>enova365 ERP System</li>
   <li>experience with: <br/>
     <ul>
       <li>ASP .NET Framework MVC (diploma thesis)</li>
@@ -26,5 +24,5 @@ Currently I am working on my portfolio - REST WebAPI project called "Sportomondo
   </li>
 </ul>
 
-#### 🌱 Contact: ####
+#### 📫 Contact: ####
 <p align="left"> <a href="https://www.linkedin.com/in/kamil-żurek-76b958164/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
