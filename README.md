@@ -1,5 +1,5 @@
 #### 👨‍💻 About me: ####
-My name is **Kamil** and I am beginner **C# back-end developer** in ✨ _ASP .NET Core_ ✨
+My name is **Kamil** and I am a beginner **C# back-end developer** in **ASP .NET Core**.
 
 After working almost 7 years as a enova365 **EPR System Specialist / Developer** I've decided to try my hand at a web development.
 
