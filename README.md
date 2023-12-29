@@ -5,7 +5,7 @@ After working almost 7 years as a enova365 **EPR System Specialist / Developer**
 
 Currently I am working on my portfolio - REST WebAPI project called "Sportomondo" (activity tracker) which You can see here in detail:
 
-[Sportomondo WebAPI](https://github.com/KamilZurek/RestaurantAPI)
+[Sportomondo WebAPI](https://github.com/KamilZurek/Sportomondo)
 
 #### 🔭 Learning / skills: ####
 <ul>
