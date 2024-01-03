@@ -15,7 +15,7 @@ Currently I am working on my portfolio - REST WebAPI project called "Sportomondo
   <li>GIT, TFS</li>
   <li>HTML, CSS (basics)</li>
   <li>enova365 ERP System</li>
-  <li>experience with: <br/>
+  <li>prior experience with: <br/>
     <ul>
       <li>ASP .NET Framework MVC (diploma thesis)</li>
       <li>WCF (.Net Framework) - SOAP WebServices for enova365</li>
