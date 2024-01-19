@@ -1,5 +1,5 @@
 #### 👨‍💻 About me: ####
-My name is **Kamil** and I am a beginner **C# back-end developer** in **ASP .NET Core**.
+My name is **Kamil** and I am a beginner **C# back-end developer** in **ASP.NET Core**.
 
 After working almost 7 years as a enova365 **EPR System Specialist / Developer** I've decided to try my hand at a web development.
 
@@ -9,17 +9,18 @@ Currently I am working on my portfolio - REST WebAPI project called "Sportomondo
 
 #### 🔭 Learning / skills: ####
 <ul>
-  <li>C#</li>
-  <li>ASP .NET Core (WebAPIs)</li>
-  <li>SQL / Microsoft SQL Server</li>
+  <li>C# (.NET)</li>
+  <li>ASP.NET Core (WebAPIs)</li>
+  <li>SQL / MS SQL + Entity Framework Core</li>
   <li>GIT, TFS</li>
   <li>HTML, CSS (basics)</li>
+  <li>unit and integration tests (xUnit)</li>
   <li>enova365 ERP System</li>
-  <li>prior experience with: <br/>
+  <li>prior experience with .Net Framework: <br/>
     <ul>
-      <li>ASP .NET Framework MVC (diploma thesis)</li>
-      <li>WCF (.Net Framework) - SOAP WebServices for enova365</li>
-      <li>DLL libraries</li>
+      <li>ASP.NET MVC (diploma thesis)</li>
+      <li>WCF - SOAP Web Services for enova365</li>
+      <li>DLL libraries for enova365</li>
     </ul>
   </li>
 </ul>
