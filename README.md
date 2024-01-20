@@ -1,7 +1,7 @@
 #### 👨‍💻 About me: ####
 My name is **Kamil** and I am a beginner **C# back-end developer** in **ASP.NET Core**.
 
-After working almost 7 years as a enova365 **EPR System Specialist / Developer** I've decided to try my hand at a web development.
+After working almost 7 years as a enova365 EPR System **Implementation Specialist / Developer** I've decided to try my hand at a web development.
 
 Currently I am working on my portfolio - REST WebAPI project called "Sportomondo" (activity tracker) which You can see here in detail:
 
