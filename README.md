@@ -10,7 +10,7 @@ Currently I am working on my portfolio - REST WebAPI project called "Sportomondo
 #### 🔭 Learning / skills: ####
 <ul>
   <li>C# (.NET)</li>
-  <li>ASP.NET Core (WebAPIs)</li>
+  <li>ASP.NET Core (REST WebAPIs)</li>
   <li>SQL / MS SQL + Entity Framework Core</li>
   <li>GIT, TFS</li>
   <li>HTML, CSS (basics)</li>
@@ -26,4 +26,4 @@ Currently I am working on my portfolio - REST WebAPI project called "Sportomondo
 </ul>
 
 #### 📫 Contact: ####
-<p align="left"> <a href="https://www.linkedin.com/in/kamil-żurek-76b958164/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/kamilżurek/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
